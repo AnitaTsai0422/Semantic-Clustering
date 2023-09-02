@@ -4,5 +4,7 @@
 
 ![image](https://github.com/AnitaTsai0422/image/blob/master/semantic_clustering.png?raw=true)
 
+![image](https://github.com/AnitaTsai0422/image/blob/master/semantic_clustering.png?raw=true)
+
 
 
